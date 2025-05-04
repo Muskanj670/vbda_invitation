@@ -141,5 +141,3 @@ Course/Institute: \[Optional]
 ## 📄 License
 
 This project is provided for educational purposes. Use it at your own discretion.
-
-```
